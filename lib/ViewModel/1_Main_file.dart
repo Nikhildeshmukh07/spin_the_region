@@ -113,7 +113,7 @@ class _SpintheRegionState extends State<SpintheRegion> {
     'Laos',
     'Latvia',
     'Lebanon',
-    'Lesotho',
+    'Lesotho'
     'Liberia',
     'Libya',
     'Liechtenstein',
